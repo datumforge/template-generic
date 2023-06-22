@@ -1,0 +1,15 @@
+docs:
+  - docs/**
+  - *.md
+
+cicd:
+  - .github/**
+  - renovate.json
+  - Makefile
+  - Dockerfile
+
+license:
+  - LICENSE
+
+codeowners:
+  - .github/CODEOWNERS
